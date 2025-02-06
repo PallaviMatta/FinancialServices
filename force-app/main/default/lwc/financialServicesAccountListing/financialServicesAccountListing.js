@@ -54,6 +54,6 @@ export default class FinancialServicesAccountListing extends LightningElement {
     handleRowAction(event) {
         const actionName = event.detail.action.name;
         const row = event.detail.row;
-        // Implement edit functionality here if needed
+        
     }
 }
